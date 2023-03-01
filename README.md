@@ -1,2 +1,4 @@
-# algo1_clase_22_git_trabajo_equipo
-Clase 22 del Curso de Verano de AYP1 (1/3/2023)
+# Clase 22: Git, trabajo en equipo
+Ejemplo de como se puede distribuir el trabajo y desarrollar software en equipo.
+
+[Enlace a la presentación](https://docs.google.com/presentation/d/1HnV-gkW0UgYVtPYt0UbKoIXjG9IZfmZaSih-Ug2O7TQ/edit?usp=sharing)
